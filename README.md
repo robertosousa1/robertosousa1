@@ -6,7 +6,5 @@ My name is Roberto. I am a senior software engineer and tech lead. I've been a d
 
 ## 📫 How to reach me
 
-I love to talk to people and discuss tech! You can reach me out on any channels below!
-
 - 🔗 I have a personal website at [robertosousa1/timeline](https://robertosousa1.github.io/timeline/) where I tell about events in which I participated.
 - 📧 You can also send me an [email](mailto:robertosousa1@uol.com.br)
