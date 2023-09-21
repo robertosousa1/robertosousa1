@@ -2,7 +2,7 @@
 
 [![Linkedin: robertosousa01](https://img.shields.io/badge/-Roberto%20Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertosousa01/)](https://www.linkedin.com/in/robertosousa01/)
 
-My name is Roberto. I am a senior software engineer and tech lead. I've been a developer since I was 14 years old. I am a software architecture enthusiast, I contribute with open source. I mentor communities, events and online courses. I love speaking at technology events. I currently work as a software consultant for Altran.
+My name is Roberto. Developer since age 14. Software Architecture Enthusiast. Mentor at technology events, instructor in online courses, speaker, author and open source contributor. In recognition of my contributions to the technology community, I was awarded the titles of Microsoft MVP, AWS Community Builder and Elastic Contributor. Currently Coordinator of Architecture and Software Development at Hospital Israelita Albert Einstein.
 
 ## 📫 How to reach me
 
